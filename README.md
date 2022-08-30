@@ -1,40 +1,16 @@
-## 📝 Table of Contents
+# news__app
 
-- [About](#about)
-- [The packages i used](#packages)
-- [ScreenShots from the app](#screen-shots)
-- [Demo vedio](#demo_vedio)
-- [Contributors](#Contributors)
+A new Flutter project.
 
-## About <a name = "about"></a>
-- News App created in Flutter using News API for fetching real-time data and showing them through web view. the user can search for news, switch between two modes:dark & light => the app will save the  last mode (power of shared_preferences :)).The app is a good practice on BLoC state management.  
+## Getting Started
 
-## The packages i used <a name="packages"></a>
-  - flutter_bloc
-  - bloc_provider
-  - dio
-  - conditional_builder_null_safety
-  - hexcolor
-  - shared_preferences
-  - webview_flutter
+This project is a starting point for a Flutter application.
 
-## ScreenShots from the app: <a name = "screen-shots"></a>
-![collage](https://user-images.githubusercontent.com/90224487/187344998-ffed583e-2748-411b-a841-71580d697f1c.jpg)
+A few resources to get you started if this is your first Flutter project:
 
-## Demo vedio <a name = "demo_vedio"></a>
-https://youtube.com/shorts/sZ1mie4cBtM?feature=share
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Contributors <a name = "Contributors"></a>
-
-<table>
-  <tr>
-    <td align="center">
-    <a href="https://github.com/hebaashraf21.png" target="_black">
-    <img src="" width="150px;" alt="Heba Ashraf"/>
-    <br />
-    <sub><b>Heba Ashraf</b></sub></a>
-    
-  </tr>
- </table>
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
