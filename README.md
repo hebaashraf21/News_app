@@ -1,7 +1,7 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Packages i used](#packages)
+- [Packages used](#packages)
 - [ScreenShots from the app](#screen-shots)
 - [Demo vedio](#demo_vedio)
 - [Contributors](#Contributors)
@@ -9,7 +9,7 @@
 ## About <a name = "about"></a>
 - News App created in Flutter based on BLoC state management which use News API for fetching real-time data showing them in web view. The user can search, change the mode: dark & light (the app will save the last mode=>using shared preference).
 
-## Packages i used: <a name="packages"></a>
+## Packages used: <a name="packages"></a>
   - flutter_bloc
   - bloc_provider
   - dio
