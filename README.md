@@ -21,7 +21,7 @@
 ## ScreenShots from the app: <a name = "screen-shots"></a>
 ![collage (3)](https://user-images.githubusercontent.com/90224487/187347558-a928906a-0728-47df-acee-9e275c8dccfb.jpg)
 
-## Demo vedio <a name = "demo_vedio"></a>
+## Demo vedio <a name = "demo_video"></a>
 https://youtube.com/shorts/sZ1mie4cBtM?feature=share
 
 ## Contributors <a name = "Contributors"></a>
